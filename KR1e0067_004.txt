@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 春秋師說
-#+DATE: 2015-09-23 09:40:04
-#+PROPERTY: JUAN 4
+#+DATE: 2015-08-24 22:15:18.921568
+#+PROPERTY: ID KR1e0067
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 附録上
 <pb:KR1e0067_WYG_004-1a>¶
 附錄上¶
 　　　思古吟十章(併序/)¶
@@ -88,4 +90,3 @@
 亦有仁義之人能俾遂其志者乎予所不能必也道之¶
 行與命也愛莫助之永歎而已延祐第七立秋之後四¶
 日臨川吳澂書于易學濫觴春秋指要之卷端¶
-

@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 春秋師說
-#+DATE: 2015-09-23 09:40:04
-#+PROPERTY: JUAN 1
+#+DATE: 2015-08-24 22:15:18.860178
+#+PROPERTY: ID KR1e0067
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷上
 <pb:KR1e0067_WYG_001-1a>¶
 欽定四庫全書¶
 　春秋師説卷上¶
@@ -632,4 +634,3 @@
 　¶
 　¶
 　春秋師說卷上¶
-

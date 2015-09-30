@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 春秋師說
-#+DATE: 2015-09-23 09:40:04
-#+PROPERTY: JUAN 6
+#+DATE: 2015-08-24 22:15:18.948803
+#+PROPERTY: ID KR1e0067
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 題跋
 <pb:KR1e0067_WYG_006-1a>¶
 　春秋趙氏集傳十五卷屬辭十五卷左氏傳補注十¶
 　卷師說三卷皆居敬所校定始資中黃先生以六經¶
@@ -72,4 +74,3 @@
 　春秋經㫖廢失之由有相似者葢如此故以思古吟¶
 　等篇及行狀附于師說之後庶幾方來學者有所感¶
 　發云爾學生金居敬謹識¶
-
